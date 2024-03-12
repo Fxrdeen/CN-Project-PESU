@@ -1,0 +1,103 @@
+body {
+  font-family: sans-serif;
+  background-color: #315481;
+  background-image: linear-gradient(to bottom, #315481, #918e82 100%);
+  background-attachment: fixed;
+
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 1;
+  padding: 0;
+  margin: 0;
+
+  font-size: 14px;
+}
+
+.text-center {
+  margin-top: 250px;
+  text-align: center;
+  font-size: 5rem;
+}
+.text-center-new {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.row {
+  margin-top: 50px;
+  text-align: center;
+}
+.btn-primary {
+  width: 2000px;
+}
+
+.button-toolbar {
+  width: 1000px;
+}
+
+.picturelabel {
+  margin-top: 250px;
+  align-content: center;
+}
+
+.formClass {
+  align-content: center;
+}
+
+.gameform {
+  text-align: center;
+}
+
+.startgame {
+  margin-top: 250px;
+  text-align: center;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+}
+.color-guide {
+  margin: 20px 40px;
+}
+h5 {
+  margin-bottom: 10px;
+}
+.user {
+  padding: 7px 15px;
+  border-radius: 4px;
+  color: white;
+  font-size: 13px;
+  font-weight: bold;
+  background: #ee92c2;
+  margin: 10px 0;
+}
+.guest {
+  background: #f0c987;
+  color: white;
+}
+.win {
+  text-align: center;
+  margin-top: 100px;
+}
+
+li.nav-item {
+  width: 138px;
+  padding: 4% 6%;
+  text-align: center;
+  margin-left: 7px;
+}
+
+li.nav-item a {
+  width: 138px;
+  padding: 4% 6%;
+  text-align: center;
+  margin-left: 7px;
+}
+.container-fluid {
+  width: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+}
